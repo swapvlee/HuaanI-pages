@@ -1,1 +1,0 @@
-import{n as e}from"./ModuleDetail-DZ9GL-Cp.js";export default e();
