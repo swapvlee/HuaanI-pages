@@ -3,6 +3,12 @@
 ## Version Log
 
 <!-- VERSION_LOG_START -->
+### [0.6.3] - 重新构建 (2026-10-22)
+
+- 更新了生产构建资源
+- 更新了项目配置或依赖
+- 优化了界面样式
+
 ### [0.6.2] - 标题 (2026-10-22)
 
 - 更新加了文发项目或依赖
@@ -11,5 +17,6 @@
 
 - Updated project configuration or dependencies
 <!-- VERSION_LOG_END -->
+
 
 
