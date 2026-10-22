@@ -1,1 +1,0 @@
-import{n as e}from"./ModuleDetail-BmjX2JdI.js";export default e();
