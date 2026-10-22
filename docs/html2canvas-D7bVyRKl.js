@@ -1,0 +1,1 @@
+import{n as e}from"./ModuleDetail-CRUdEMeT.js";export default e();
