@@ -3,6 +3,15 @@
 ## Version Log
 
 <!-- VERSION_LOG_START -->
+### [0.7.3] - 其他更新 (2026-10-22)
+
+- 更新了项目文档
+- 更新了项目配置或依赖
+
+### [0.7.2] - 其他更新 (2026-10-22)
+
+- 更新了项目配置或依赖
+
 ### [0.7.1] - 其他更新 (2026-10-22)
 
 - 更新了应用功能和页面
@@ -54,6 +63,8 @@
 
 - Updated project configuration or dependencies
 <!-- VERSION_LOG_END -->
+
+
 
 
 
